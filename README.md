@@ -1,6 +1,8 @@
 ## Olá, Eu sou o Guilherme Diniz
 
 💻 Atualmente trabalho com Banco de Dados Oracle
+
+
 💻 Estudando Tecnologias para Web e Mobile
 ##
 
