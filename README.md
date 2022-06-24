@@ -1,9 +1,9 @@
 ## Olá, Eu sou o Guilherme Diniz
 
-💻 Atualmente trabalho com Banco de Dados Oracle
+💻 Entusiastas por Dados.
 
 
-💻 Estudando Tecnologias para Web e Mobile
+💻 SQL, PYTHON, POWER BI
 ##
 
 <div align="center">
