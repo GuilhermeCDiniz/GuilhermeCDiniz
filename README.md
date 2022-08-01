@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/guilherme-c-diniz-786111143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-## Bem vindo ao meu perfil, Eu sou o Guilherme Diniz
+## Bem vindo ao meu perfil!
 
 💻 Entusiastas por Dados.
 💻 SQL, PYTHON, POWER BI
