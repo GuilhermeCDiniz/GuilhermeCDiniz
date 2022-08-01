@@ -1,27 +1,29 @@
-## Olá, Eu sou o Guilherme Diniz
+## Bem vindo ao meu perfil, Eu sou o Guilherme Diniz
 
 💻 Entusiastas por Dados.
-
-
 💻 SQL, PYTHON, POWER BI
+
+Entusiasta por Análise de Dados. Com o objetivo de causar um impacto positivo através da tecnologia. Principais tecnologias que trabalho/estudo: SQL, Power BI, Python.
+3 anos de experiência na área de tecnologia.
+
+Vivência com ferramentas de visualização de dados, em especial Power Bi na construção de relatórios e dashboards e domínio de query de consultas com SQL;
+##
+
+
+## Experiência com:
+
+-Database: Consultas em bancos de dados;
+
+-Business Intelligence: Construção de dashboards e KPIs;
+
+-Analytics: Extração, limpeza, análise e modelagem de dados;
+
 ##
 
 <div align="center">
   <a href="https://github.com/GuilhermeCDiniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCDiniz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCDiniz&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-SQL height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://cdn-icons.flaticon.com/png/512/3962/premium/3962076.png?token=exp=1656095648~hmac=33ba992e331e357db6c806d7dee756df)">
-  <img align="center" alt="GuiTs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/03b6013db6b173d2b1b47e8e978f8a59.gif?width=676&height=676">
-</div>
-  
-  
+
   ##
   
   
