@@ -18,18 +18,16 @@ Possuo vivência com ferramentas de visualização de dados, em especial com Pow
 
 ## Experiência com:
 
--Database: Consultas em bancos de dados;
+-**Database**: Consultas em bancos de dados;
 
--Business Intelligence: Construção de dashboards e KPIs;
+-**Business Intelligence**: Construção de dashboards e KPIs;
 
--Analytics: Extração, limpeza, análise e modelagem de dados;
+-**Analytics**: Extração, limpeza, análise e modelagem de dados;
 
 ##
 
-<div align="center">
-  <a href="https://github.com/GuilhermeCDiniz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCDiniz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCDiniz)](https://github.com/anuraghazra/github-readme-stats)
 
   ##
   
- 
+
