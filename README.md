@@ -5,14 +5,11 @@
 
 ## Bem vindo ao meu perfil!
 
-💻 Entusiastas por Dados.
-💻 SQL, DAX, POWER BI, EXCEL
 
-5 anos de experiência na área de tecnologia. Nos últimos 2 anos sendo um entusiasta por Análise de Dados e com o objetivo de causar um impacto positivo através da tecnologia. 
-Principais tecnologias: SQL, Power BI, Dax, Excel.
+Entusiasta por Dados e com o objetivo de causar um impacto positivo através da tecnologia. 
+Principais tecnologias: 💻 SQL, Python, Power BI, Dax, Excel.
 
 
-Possuo vivência com ferramentas de visualização de dados, em especial com Power Bi na construção de relatórios, dashboards e domínio de query de consultas com SQL;
 ##
 
 
