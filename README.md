@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-diniz-786111143/)](https://www.linkedin.com/in/guilherme-diniz-786111143/)
 
-## <samp>Seja muito bem-vindo(a) ao meu espaço no GitHub!</samp> 🚀
+## <samp>Este é meu espaço no GitHub!</samp> 🚀
 
 <samp>Sou o Guilherme, apaixonado pela área de Dados e Estatística.</samp>
 
