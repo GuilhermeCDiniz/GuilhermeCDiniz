@@ -6,7 +6,7 @@
 
 <samp>Sou o Guilherme, apaixonado pela área de Dados e Estatística.</samp>
 
-💡 <samp>Realizando estudos estatísticos descritivos, inferenciais, exploratórios, preditivos e prescritivos. Criando análises e modelos estatísticos para identificar padrões de comportamento, correlações e tendências, contribuindo diretamente para a otimização de estratégias de negócio.</samp>
+💡 <samp>Realizando estudos estatísticos descritivos, inferenciais, exploratórios, preditivos e prescritivos para identificar padrões de comportamento, correlações e tendências, contribuindo diretamente para a otimização de estratégias de negócio.</samp>
 
 ---
 
